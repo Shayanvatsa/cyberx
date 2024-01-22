@@ -14,7 +14,7 @@ function App() {
         <Cards />
       </div>
       <div className="bg-slate-800 text-center py-5">
-      Crafted With Love by Web Lead Pooranjoy Bhattacharya.
+      Crafted With Love by Web Lead Pooranjoy Bhattacharya & CyberSec Team.
       </div>
     </>
   );
