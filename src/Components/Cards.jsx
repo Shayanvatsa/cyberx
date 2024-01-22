@@ -25,13 +25,15 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Feature 1
+                  Array of Characters
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                I march in line, one after the other,
+                telling tales and whispering of another.
+                I can be written, typed, or drawn with care,
+                but speak no words, though secrets I can share.
                 </p>
                 <a
                   href="https://google.com"
@@ -60,13 +62,12 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Feature 1
+                  Fix Me
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                  Run the python program while ensuring that the encrypted file is also in the same directory.
                 </p>
                 <a
                   href="#"
@@ -95,13 +96,12 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Feature 1
+                  Investigate
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                Leave No Stones Unturned. Elementary My Dear Friends.
                 </p>
                 <a
                   href="#"
@@ -137,13 +137,12 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Feature 1
+                  Repeatations 
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                  The name speaks for itself.
                 </p>
                 <a
                   href="#"
@@ -172,13 +171,13 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Feature 1
+                  It Hurts
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                "In the kingdom of databases, where queries speak a cryptic tongue, find the key to unravel secrets hidden in the vault of tables. Forge the syntax wisely, and the gates shall open, revealing the shadows of data waiting to be unmasked. What am I?"
+
                 </p>
                 <a
                   href="#"
@@ -207,13 +206,12 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Feature 1
+                  LET ME IN.....
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                  FBI Open Up. Name the Org.
                 </p>
                 <a
                   href="#"

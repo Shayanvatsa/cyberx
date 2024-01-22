@@ -13,6 +13,9 @@ function App() {
         <Home />
         <Cards />
       </div>
+      <div className="bg-slate-800 text-center py-5">
+      Crafted With Love by Web Lead Pooranjoy Bhattacharya.
+      </div>
     </>
   );
 }
