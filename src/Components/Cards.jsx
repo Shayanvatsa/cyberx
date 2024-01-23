@@ -36,10 +36,10 @@ function Cards() {
                 but speak no words, though secrets I can share.
                 </p>
                 <a
-                  href="https://google.com"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Array%20of%20Chars/string"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Learn More
+                  Get The Code!
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -67,13 +67,37 @@ function Cards() {
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Run the python program while ensuring that the encrypted file is also in the same directory.
+                  I speak in tongues, but have no voice.
+                  I hold secrets, but make no choice.
+                  With the right key, I unlock my gate,
+                  But the wrong command seals your fate.
+
+                  What am I?
                 </p>
                 <a
-                  href="#"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Fix%20Me/patchme.py"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Learn More
+                  First Code
+
+                  <svg
+                    fill="none"
+                    stroke="currentColor"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    className="w-4 h-4 ml-2"
+                    viewBox="0 0 24 24"
+                  >
+                    <path d="M5 12h14M12 5l7 7-7 7"></path>
+                  </svg>
+                </a>
+                <a
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Fix%20Me/flag.txt.enc"
+                  className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
+                >
+                  Second Code
+
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -104,10 +128,10 @@ function Cards() {
                 Leave No Stones Unturned. Elementary My Dear Friends.
                 </p>
                 <a
-                  href="#"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Investigate/invest.txt"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Learn More
+                  Get The Code!
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -137,18 +161,18 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  Repeatations 
+                Kanchenjunga's Lost Code: Sleepless Slides & Coded Whispers
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  The name speaks for itself.
+                Deep within a PowerPoint jungle, secrets await, guarded by the ghost of an explorer lost on Mount Kanchenjunga. Extract a file named "secrets," then use Pythagoras' wisdom (think perfect squares and elusive roots) to unlock its coded whispers. Remember, even a Yeti leaves clues if you know where to look. Crack the code, claim the treasure, and become Kanchenjunga's code-breaking champion!
                 </p>
                 <a
-                  href="#"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/PPT/GDSC.pptx"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Learn More
+                  Get The Code!
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -180,10 +204,10 @@ function Cards() {
 
                 </p>
                 <a
-                  href="#"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Hurts/index.html"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Learn More
+                  Get The Code!
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -206,18 +230,18 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  LET ME IN.....
+                  NAIL IN THE COFFIN
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  FBI Open Up. Name the Org.
+                  FBI Open Up. Get aHEAD.
                 </p>
                 <a
-                  href="#"
+                  href="http://10.50.4.133:5000"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Learn More
+                  Get The Code!
                   <svg
                     fill="none"
                     stroke="currentColor"
