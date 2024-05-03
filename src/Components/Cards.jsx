@@ -25,19 +25,21 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                instrumentos de cuerda | grep de
+                  Array of Characters
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                For executables may come or files may go
-                strings go on forever
+                I march in line, one after the other,
+                telling tales and whispering of another.
+                I can be written, typed, or drawn with care,
+                but speak no words, though secrets I can share.
                 </p>
                 <a
-                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/file"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Array%20of%20Chars/string"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
-                  Get The File!
+                  Get The Code!
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -60,18 +62,20 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  What The Zip!
+                  Fix Me
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                  Something sha256, something checksum, something files.
-                  Flag - GDSC filename
+                  I speak in tongues, but have no voice.
+                  I hold secrets, but make no choice.
+                  With the right key, I unlock my gate,
+                  But the wrong command seals your fate.
 
-                  The Flag?
+                  What am I?
                 </p>
                 <a
-                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/checksum.txt"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Fix%20Me/patchme.py"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
                   First Code
@@ -89,7 +93,7 @@ function Cards() {
                   </svg>
                 </a>
                 <a
-                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/files.zip"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Fix%20Me/flag.txt.enc"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
                   Second Code
@@ -116,15 +120,15 @@ function Cards() {
                   <GiDualityMask />
                 </div>
                 <h2 className="text-white dark:text-white text-lg font-medium">
-                  pico
+                  Investigate
                 </h2>
               </div>
               <div className="flex flex-col justify-between flex-grow">
                 <p className="leading-relaxed text-base text-white dark:text-gray-300">
-                pikachu
+                Leave No Stones Unturned. Elementary My Dear Friends.
                 </p>
                 <a
-                  href="https://mercury.picoctf.net/static/da18eed3d15fd04f7b076bdcecf15b27/tunn3l_v1s10n"
+                  href="https://github.com/LunaticPython2003/GDSC-CTF/raw/main/Investigate/invest.txt"
                   className="mt-3 text-black dark:text-white hover:text-blue-600 inline-flex items-center"
                 >
                   Get The Code!
@@ -145,11 +149,11 @@ function Cards() {
           </div>
         </div>
 
-        {/* <h1 className="mt-20 w-full flex items justify-center text-center mb-4 text-xl font-extrabold leading-none tracking-tight text-gray-900 md:text-xl lg:text-xl dark:text-white z-[50]">
+        <h1 className="mt-20 w-full flex items justify-center text-center mb-4 text-xl font-extrabold leading-none tracking-tight text-gray-900 md:text-xl lg:text-xl dark:text-white z-[50]">
           Level 2
-        </h1> */}
+        </h1>
 
-        {/* <div className="flex flex-wrap justify-center mt-10 z-[60]">
+        <div className="flex flex-wrap justify-center mt-10 z-[60]">
           <div className="p-4 max-w-sm">
             <div className="flex rounded-lg h-full dark:bg-black-800 bg-opacity-70 bg-teal-400 hover:transform hover:scale-105 transition-transform p-8 flex-col">
               <div className="flex items-center mb-3">
@@ -252,8 +256,8 @@ function Cards() {
                 </a>
               </div>
             </div>
-          </div> */}
-        {/* </div> */}
+          </div>
+        </div>
       </div>
     </>
   );
